@@ -3,9 +3,9 @@
 ## Godot projects
 
 Short games that I made while learning the basics of Godot.
-Note: they use fan art of characters from the game Goodbye Volcano High.
+They use fan art of characters from the game Goodbye Volcano High.
 
-### [Beat Blaster](https://mikeasaurus.github.io/godot-practice/beatblaster/html/beatblaster.html)
+### [Beat Blaster](https://mikeasaurus.github.io/beatblaster)
 
 Use the power of music to save the world from a barrage of meteors.
 
