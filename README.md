@@ -9,4 +9,3 @@ They use fan art of characters from the game Goodbye Volcano High.
 
 Use the power of music to save the world from a barrage of meteors.
 
-([source](https://github.com/Mikeasaurus/godot-practice/tree/main/beatblaster))
