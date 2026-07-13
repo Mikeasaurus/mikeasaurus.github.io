@@ -9,3 +9,16 @@ They use fan art of characters from the game Goodbye Volcano High.
 
 Use the power of music to save the world from a barrage of meteors.
 
+### [Slimetime](https://mikeasaurus.github.io/slimetime)
+
+You are a very hungry velvet worm.
+
+### [Nasercar](https://mikeasaurus.github.io/nasercar)
+
+A go-kart racing game.
+
+## HTML / Javascript projects
+
+### Wormchat
+
+Chat with other worms (ask for link/invite).
